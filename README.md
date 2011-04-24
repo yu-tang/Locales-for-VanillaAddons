@@ -31,6 +31,7 @@ Vanilla アドオン用の日本語言語ファイルを管理します。
 * Plugins
   * [Mark All Viewed](http://vanillaforums.org/addon/allviewed-plugin) 1.1 -- Vanilla 2.0.17.9 contains
   * [About Me](http://vanillaforums.org/addon/579-about-me) 1.0
+  * [Addon Manager](http://vanillaforums.org/addon/addonmanager-plugin) 0.2.0
   * [<Embed> Vanilla](http://vanillaforums.org/addon/embedvanilla-plugin) 1.0.1 -- Vanilla 2.0.17.9 contains
   * [ReplyTo](http://vanillaforums.org/addon/replyto-plugin) 0.1.8
 * Themes

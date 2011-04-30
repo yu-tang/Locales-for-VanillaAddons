@@ -3,7 +3,7 @@
 
 $Definition['Who\'s Online Settings'] = 'ただいまオンライン設定';
 $Definition['Who\'s Online'] = 'ただいまオンライン';
-$Definition['Make me invisible? (Will not show you on the list)'] = 'Make me invisible? (Will not show you on the list)';
+$Definition['Make me invisible? (Will not show you on the list)'] = 'ただいまオンラインに表示しない';
 $Definition['Where should the plugin be shown?'] = 'Where should the plugin be shown?';
 $Definition['Sections'] = 'Sections';
 $Definition['This will show the panel on every page.'] = 'This will show the panel on every page.';

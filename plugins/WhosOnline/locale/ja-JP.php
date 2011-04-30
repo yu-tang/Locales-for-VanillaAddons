@@ -1,8 +1,8 @@
 <?php if (!defined('APPLICATION')) exit();
 /** WhosOnline 1.3 **/
 
-$Definition['Who\'s Online Settings'] = 'Who\'s Online Settings';
-$Definition['Who\'s Online'] = 'Who\'s Online';
+$Definition['Who\'s Online Settings'] = 'ただいまオンライン設定';
+$Definition['Who\'s Online'] = 'ただいまオンライン';
 $Definition['Make me invisible? (Will not show you on the list)'] = 'Make me invisible? (Will not show you on the list)';
 $Definition['Where should the plugin be shown?'] = 'Where should the plugin be shown?';
 $Definition['Sections'] = 'Sections';

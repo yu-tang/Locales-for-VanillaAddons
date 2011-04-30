@@ -10,6 +10,6 @@ $Definition['This will show the panel on every page.'] = 'すべてのページ�
 $Definition['Discussion'] = 'ディスカッション';
 $Definition['This show the plugin on only selected discussion pages'] = 'ディスカッションページのみに表示されます';
 $Definition['Hide for non members of the site'] = 'メンバー以外の閲覧者には表示しない';
-$Definition['Frequency'] = '最新ステータスの表示設定';
+$Definition['Frequency'] = '最新ステータスの更新設定';
 $Definition['In seconds'] = '秒';
 $Definition['Rate of refresh'] = '最新ステータスの更新間隔';
